@@ -12,7 +12,7 @@ A mechatronics prototype exploring liquid based counterweight adjustment for an 
 <tr><th>File or folder</th><th>Purpose</th></tr>
 <tr><td><a href="to_left_elevator.ino">to_left_elevator.ino</a></td><td>Root controller sketch</td></tr>
 <tr><td><a href="IDP/Final/to_left_elevator/to_left_elevator.ino">IDP/Final/to_left_elevator/to_left_elevator.ino</a></td><td>Controller copy inside the development folder</td></tr>
-<tr><td><a href="IDP">IDP</a></td><td>Component tests and development sketches</td></tr>
+<tr><td><a href="https://github.com/Kaveesha229/Liquid%2Dbased%2Ddynamic%2Dcounterweight%2Dsystem%2Dto%2Doptimize%2Delevator%2Denergy%2Dusage%2Dbased%2Don%2Dload./tree/main/IDP">IDP</a></td><td>Component tests and development sketches</td></tr>
 <tr><td><a href="IMDP%20REPORT.pdf">IMDP REPORT.pdf</a></td><td>Project report</td></tr>
 </table>
 
